@@ -163,7 +163,7 @@ jdocker> run hello-world:latest --name test
   Conteneur créé et démarré...
 
 jdocker> containers
-🐳 1 conteneurs:
+ 1 conteneurs:
 ID           NOM                 IMAGE           STATUT       PORTS
 abc123def456 test                hello-world:latest 🟢 RUNNING  0 port(s)
 
